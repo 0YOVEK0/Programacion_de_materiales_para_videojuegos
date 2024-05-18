@@ -1,0 +1,29 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/GITHUB/Programacion_de_materiales_para_videojuegos/PPMPV/Content/Materials/M_Emmisive.uasset",
+				"D:/GITHUB/Programacion_de_materiales_para_videojuegos/PPMPV/Content/Materials/M_blue.uasset",
+				"D:/GITHUB/Programacion_de_materiales_para_videojuegos/PPMPV/Content/Models/neon-sign/textures/low_Neon_sign_Emissive.uasset",
+				"D:/GITHUB/Programacion_de_materiales_para_videojuegos/PPMPV/Content/Models/neon-sign/textures/low_Neon_sign_Roughness.uasset",
+				"D:/GITHUB/Programacion_de_materiales_para_videojuegos/PPMPV/Content/Models/neon-sign/textures/low_Neon_sign_BaseColor.uasset",
+				"D:/GITHUB/Programacion_de_materiales_para_videojuegos/PPMPV/Content/Models/neon-sign/textures/low_Neon_sign_Metallic.uasset",
+				"D:/GITHUB/Programacion_de_materiales_para_videojuegos/PPMPV/Content/Models/neon-sign/source/neon_sign.uasset",
+				"D:/GITHUB/Programacion_de_materiales_para_videojuegos/PPMPV/Content/Models/neon-sign/textures/low_Neon_sign_AO.uasset",
+				"D:/GITHUB/Programacion_de_materiales_para_videojuegos/PPMPV/Content/Models/neon-sign/textures/low_Neon_sign_Normal.uasset",
+				"D:/GITHUB/Programacion_de_materiales_para_videojuegos/PPMPV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/LN/30UBDLYFFA5ZR7U4W4L4GG.uasset",
+				"D:/GITHUB/Programacion_de_materiales_para_videojuegos/PPMPV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416.uasset",
+				"D:/GITHUB/Programacion_de_materiales_para_videojuegos/PPMPV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/F7/FI0SD3MLRHJY5BXU6MBXIA.uasset",
+				"D:/GITHUB/Programacion_de_materiales_para_videojuegos/PPMPV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/ZJ/QG7TV7R2UBLZH5DWQF4DGK.uasset",
+				"D:/GITHUB/Programacion_de_materiales_para_videojuegos/PPMPV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WF/5PL0A95BBTF5XC55ZCTZXS.uasset",
+				"D:/GITHUB/Programacion_de_materiales_para_videojuegos/PPMPV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/4K/16YRUBHTNA5QFUF8RPYTJU.uasset",
+				"D:/GITHUB/Programacion_de_materiales_para_videojuegos/PPMPV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/83/QPGXVVHHKKF95OZSZVWJRG.uasset",
+				"D:/GITHUB/Programacion_de_materiales_para_videojuegos/PPMPV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/2I/SC68V9SVNZNMPE2QGEHTGV.uasset",
+				"D:/GITHUB/Programacion_de_materiales_para_videojuegos/PPMPV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/TB/9S8DFO1G8PB0WPZ20B333U.uasset"
+			]
+		}
+	]
+}
