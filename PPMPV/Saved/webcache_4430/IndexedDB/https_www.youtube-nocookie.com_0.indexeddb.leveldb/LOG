@@ -1,0 +1,6 @@
+2024/05/18-16:54:10.326 67c4 Creating DB D:/GITHUB/Programacion_de_materiales_para_videojuegos/PPMPV/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2024/05/18-16:54:10.338 67c4 Reusing MANIFEST D:/GITHUB/Programacion_de_materiales_para_videojuegos/PPMPV/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/18-17:05:05.124 3784 Level-0 table #5: started
+2024/05/18-17:05:05.127 3784 Level-0 table #5: 1167 bytes OK
+2024/05/18-17:05:05.133 3784 Delete type=0 #3
+2024/05/18-17:05:05.133 3784 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
